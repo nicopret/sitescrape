@@ -1,0 +1,22 @@
+{
+  "name": "sitescrape",
+  "version": "1.0.0",
+  "description": "Scrape sites using casperjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicopret/sitescrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicopret/sitescrape/issues"
+  },
+  "homepage": "https://github.com/nicopret/sitescrape#readme",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
